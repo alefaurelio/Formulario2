@@ -1,0 +1,15 @@
+body{
+background-color:#D2B48C;
+/* Cor de fundo da página
+*/
+color:#000000;
+font-family:Tahoma;
+font-size:12px;
+h1, h2, h3 {
+text-align: center;
+color:#808080;
+}
+p{
+text-align: justify;
+color: #A0522D;
+}
